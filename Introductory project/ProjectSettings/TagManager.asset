@@ -3,16 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Spike
+  - SpawnPositions
+  - TextItem
+  - CoinSpawner
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
+  - ' Damage Dealer'
+  - Coins
   - 
   - 
   - 
